@@ -22,12 +22,13 @@ function App() {
             Hi!, Saya Muhammad Rizal Ramdhani
           </h1>
           <p className="text-base/loose mb-6 opacity-80">
-            Mahasiswa Pendidikan Teknik Informatika yang memiliki ketertarikan
-            pada pengembangan aplikasi berbasis web dan mobile. Menguasai dasar
-            HTML, CSS, JavaScript, PHP, dan MySQL, serta memiliki pengalaman
-            dalam membangun antarmuka web dan mengelola data. Berkomitmen untuk
-            terus belajar teknologi modern dan berkembang sebagai Full-Stack
-            Developer.{" "}
+            Mahasiswa Pendidikan Teknik Informatika dengan minat pada
+            pengembangan web dan mobile. Memiliki pengalaman dalam membangun
+            aplikasi berbasis web menggunakan HTML, PHP, CSS, JavaScript, dan
+            MySQL, serta memahami dasar pengembangan sistem dan database.
+            Terbiasa bekerja secara mandiri maupun tim dalam menyelesaikan
+            proyek. Berkomitmen untuk terus mengembangkan kemampuan dan
+            mengikuti perkembangan teknologi.{" "}
           </p>
           <div className="flex items-center sm:gap-4 gap-2">
             <a
